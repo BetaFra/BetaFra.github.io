@@ -44,3 +44,6 @@ main[size="A4"][layout="portrait"] {
 hr {
     margin: 10px 20px;
 }
+p {
+    visibility: hidden;
+}
