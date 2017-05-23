@@ -2,8 +2,9 @@ body {
     font-family: 'Amatic SC', cursive;
     color: #555;
     font-size: large;
-    background-image:url("pamls.jpeg");
+    background-image: url("palms.jpeg");
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1, h3, h4, h5{
