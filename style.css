@@ -4,6 +4,7 @@ body {
     font-size: large;
     background-image: url("palms.jpeg");
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 h1, h3, h4, h5{
@@ -46,6 +47,8 @@ main[size="A4"][layout="portrait"] {
 hr {
     margin: 10px 20px;
 }
- p {
-  visibility: hidden;
- }
+
+p {
+    visibility: hidden;
+}
+
