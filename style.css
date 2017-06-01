@@ -2,7 +2,7 @@ body {
     font-family: 'Amatic SC', cursive;
     color: #555;
     font-size: large;
-    background-image: url("palms.jpeg");
+    background-image: url("img/palms.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
 }
