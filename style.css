@@ -1,5 +1,5 @@
 body {
-    font-family: 'Amatic SC', cursive;
+    font-family: 'Amatic SC', "Arial";
     color: #555;
     font-size: large;
     background-image: url("img/palms.jpeg");
@@ -14,8 +14,8 @@ main {
     background: white;
     display: block;
     margin: 0 auto;
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 50%;
+    margin-bottom: 50%;
     box-shadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
 }
 
@@ -48,7 +48,7 @@ hr {
     margin: 10px 20px;
 }
 
-p {
-    visibility: hidden;
-}
 
+.row-space {
+    margin:  20px;
+}
