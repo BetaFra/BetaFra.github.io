@@ -12,13 +12,10 @@ h1, h3, h4, h5{
   margin:  30px;
 }
 
-
 main {
     background: white;
     display: block;
-    margin: 0 auto;
-    margin-top: 50%;
-    margin-bottom: 50%;
+    margin: 50px auto;
     box-shadow: 0 0 0.5cm rgba(0, 0, 0, 0.5);
 }
 
@@ -51,7 +48,6 @@ hr {
     margin: 10px 20px;
 }
 
-
-.row-space {
-    margin:  20px;
+.logo {
+    margin-top: 10px;
 }
