@@ -9,7 +9,10 @@ body {
 
 h1, h3, h4, h5{
   font-size: -webkit-xxx-large;
+  margin:  30px;
 }
+
+
 main {
     background: white;
     display: block;
